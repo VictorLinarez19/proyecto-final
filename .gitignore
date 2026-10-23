@@ -1,0 +1,22 @@
+# Secretos (la plantilla .env.example sí se sube)
+.env
+!.env.example
+
+# Entorno virtual
+venvProyecto/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Salidas generadas (PDF, capturas); outputs/ ya tiene su propio .gitignore
+outputs/*
+!outputs/.gitignore
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
