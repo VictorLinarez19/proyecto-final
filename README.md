@@ -1,6 +1,6 @@
 # Simulador de optimización de una red de centros de datos
 
-**Autores:** _completar_
+**Autores:** Victor Linarez - Claudia Medina
 **Universidad José Antonio Páez — Ingeniería en Computación — Métodos Cuantitativos (octubre 2026)**
 
 Simulador orientado a objetos de una red de centros de datos que integra programación dinámica,
